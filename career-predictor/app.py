@@ -21,7 +21,7 @@ import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="Best-Fit Career Field Predictor", page_icon="🎯", layout="centered")
 
-MODEL_DIR = "models"
+MODEL_DIR = "career-predictor/models"
 
 
 @st.cache_resource
