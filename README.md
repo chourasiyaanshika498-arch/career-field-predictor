@@ -1,4 +1,7 @@
-# 🎯 Best-Fit Career Field Predictor
+## Live Demo
+Try the app here: [Best-Fit Career Field Predictor](https://career-field-predictor-cvwxkhef4zzzoqqfscv6pv.streamlit.app)
+
+#  Best-Fit Career Field Predictor
 
 An end-to-end machine learning system that recommends the most suitable
 academic/career field for an engineering student — **AI-ML, Web Development,
